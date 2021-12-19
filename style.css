@@ -29,6 +29,7 @@ ul{
 }
 body{
     background-color: whitesmoke;
+    margin: 0px;
 }
 .pictures img{
     border: 2px solid black;
@@ -37,7 +38,8 @@ body{
 .origami{
     border-radius: 20px;
     background-color: rgb(255, 255, 255);
-
+    padding: 30px;
+    margin: 25px;
     width: 310px;
     font-family: fantasy;
 }
